@@ -17,7 +17,7 @@ Collaboration, learning, and making technology accessible to everyone.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Community Leadership**
 
@@ -25,7 +25,7 @@ Collaboration, learning, and making technology accessible to everyone.
 - 🎓 Mentor to developers at all levels, from bootcamp grads to experienced engineers
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **My Contributions**
 
@@ -43,7 +43,7 @@ Collaboration, learning, and making technology accessible to everyone.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Developer Tools & Automation**
 
@@ -53,7 +53,7 @@ Collaboration, learning, and making technology accessible to everyone.
 - [**http-header-parser**](https://github.com/mikemimik/http-header-parser) — Parser for HTTP headers (IANA, RFC7230, RFC7231, RFC3864)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **Documentation Ecosystem**
 
@@ -78,13 +78,13 @@ I'm always happy to chat about open source, developer tooling, photography, or c
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 🌐 **Website:** [mikecorp.ca](http://mikecorp.ca) <br/>
 🐦 **Twitter:** [@mikemimik](https://twitter.com/mikemimik) <br/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 💼 **LinkedIn:** [mperrotte](https://linkedin.com/in/mperrotte/) <br/>
 📷 **Instagram:** [@mikemimik](https://instagram.com/mikemimik) <br/>
