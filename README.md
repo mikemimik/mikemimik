@@ -76,7 +76,7 @@ Collaboration, learning, and making technology accessible to everyone.
 
 I'm always happy to chat about open source, developer tooling, photography, or coffee!
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
