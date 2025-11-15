@@ -15,10 +15,17 @@ rock climbing, or playing piano.
 I believe in giving back to the developer community through open source.
 Collaboration, learning, and making technology accessible to everyone.
 
+<table>
+<tr>
+<td width="50%">
+
 **Community Leadership**
 
 - 🏫 Co-Organizer of [**NodeSchool Toronto**](https://github.com/nodeschool/toronto) — helping folks learn JavaScript and Node.js through hands-on workshops
 - 🎓 Mentor to developers at all levels, from bootcamp grads to experienced engineers
+
+</td>
+<td width="50%">
 
 **My Contributions**
 
@@ -26,9 +33,17 @@ Collaboration, learning, and making technology accessible to everyone.
 - 📚 Built plugins and tools for Docusaurus to improve documentation experiences
 - 🛠️ Created utilities for developer productivity and workflow automation
 
+</td>
+</tr>
+</table>
+
 ---
 
 ### 🔨 Projects I'm Hacking On
+
+<table>
+<tr>
+<td width="50%">
 
 **Developer Tools & Automation**
 
@@ -36,6 +51,9 @@ Collaboration, learning, and making technology accessible to everyone.
 - [**WindowManager.spoon**](https://github.com/mikemimik/WindowManager.spoon) — Window management for Hammerspoon (macOS)
 - [**tmux-statusbar**](https://github.com/mikemimik/tmux-statusbar) — Custom statusbar for tmux sessions
 - [**http-header-parser**](https://github.com/mikemimik/http-header-parser) — Parser for HTTP headers (IANA, RFC7230, RFC7231, RFC3864)
+
+</td>
+<td width="50%">
 
 **Documentation Ecosystem**
 
@@ -48,17 +66,32 @@ Collaboration, learning, and making technology accessible to everyone.
 - [**megapixelmontage**](https://github.com/mikemimik/megapixelmontage) — My photography portfolio website
 - [**rolodex**](https://github.com/mikemimik/rolodex) — App for tracking students and their projects (from my teaching days)
 
+</td>
+</tr>
+</table>
+
 ---
 
 ### 📫 Let's Connect
 
-I'm always happy to chat about open source, developer tooling, photography, or
-coffee!
+I'm always happy to chat about open source, developer tooling, photography, or coffee!
 
-🌐 **Website:** [mikecorp.ca](http://mikecorp.ca)  
-🐦 **Twitter:** [@mikemimik](https://twitter.com/mikemimik)  
-💼 **LinkedIn:** [mperrotte](https://linkedin.com/in/mperrotte/)  
-📷 **Instagram:** [@mikemimik](https://instagram.com/mikemimik)
+<table>
+<tr>
+<td width="50%">
+
+🌐 **Website:** [mikecorp.ca](http://mikecorp.ca) <br/>
+🐦 **Twitter:** [@mikemimik](https://twitter.com/mikemimik) <br/>
+
+</td>
+<td width="50%">
+
+💼 **LinkedIn:** [mperrotte](https://linkedin.com/in/mperrotte/) <br/>
+📷 **Instagram:** [@mikemimik](https://instagram.com/mikemimik) <br/>
+
+</td>
+</tr>
+</table>
 
 ---
 
