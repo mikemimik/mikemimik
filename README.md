@@ -15,60 +15,23 @@ rock climbing, or playing piano.
 I believe in giving back to the developer community through open source.
 Collaboration, learning, and making technology accessible to everyone.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Community Leadership**
-
-- 🏫 Co-Organizer of [**NodeSchool Toronto**](https://github.com/nodeschool/toronto) — helping folks learn JavaScript and Node.js through hands-on workshops
-- 🎓 Mentor to developers at all levels, from bootcamp grads to experienced engineers
-
-</td>
-<td width="50%" valign="top">
-
-**My Contributions**
-
-- 🔧 Maintainer and contributor to various npm ecosystem tools
-- 📚 Built plugins and tools for Docusaurus to improve documentation experiences
-- 🛠️ Created utilities for developer productivity and workflow automation
-
-</td>
-</tr>
-</table>
+| **Community Leadership** | **My Contributions** |
+|---|---|
+| 🏫 Co-Organizer of [**NodeSchool Toronto**](https://github.com/nodeschool/toronto) — helping folks learn JavaScript and Node.js through hands-on workshops | 🔧 Maintainer and contributor to various npm ecosystem tools |
+| 🎓 Mentor to developers at all levels, from bootcamp grads to experienced engineers | 📚 Built plugins and tools for Docusaurus to improve documentation experiences |
+| | 🛠️ Created utilities for developer productivity and workflow automation |
 
 ---
 
 ### 🔨 Projects I'm Hacking On
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Developer Tools & Automation**
-
-- [**dotfiles**](https://github.com/mikemimik/dotfiles) — My carefully crafted development environment setup
-- [**WindowManager.spoon**](https://github.com/mikemimik/WindowManager.spoon) — Window management for Hammerspoon (macOS)
-- [**tmux-statusbar**](https://github.com/mikemimik/tmux-statusbar) — Custom statusbar for tmux sessions
-- [**http-header-parser**](https://github.com/mikemimik/http-header-parser) — Parser for HTTP headers (IANA, RFC7230, RFC7231, RFC3864)
-
-</td>
-<td width="50%" valign="top">
-
-**Documentation Ecosystem**
-
-- [**docusaurus-openapi-docs**](https://github.com/mikemimik/docusaurus-openapi-docs) — OpenAPI plugin for generating API docs in Docusaurus v3
-- [**docusaurus-plugin-lunr**](https://github.com/mikemimik/docusaurus-plugin-lunr) — Local search index plugin for Docusaurus
-- [**docusaurus-plugin-heap**](https://github.com/mikemimik/docusaurus-plugin-heap) — Heap analytics tracking for Docusaurus
-
-**Personal Projects**
-
-- [**megapixelmontage**](https://github.com/mikemimik/megapixelmontage) — My photography portfolio website
-- [**rolodex**](https://github.com/mikemimik/rolodex) — App for tracking students and their projects (from my teaching days)
-
-</td>
-</tr>
-</table>
+| **Developer Tools & Automation** | **Documentation & Personal Projects** |
+|---|---|
+| [**dotfiles**](https://github.com/mikemimik/dotfiles) — My carefully crafted development environment setup | [**docusaurus-openapi-docs**](https://github.com/mikemimik/docusaurus-openapi-docs) — OpenAPI plugin for generating API docs in Docusaurus v3 |
+| [**WindowManager.spoon**](https://github.com/mikemimik/WindowManager.spoon) — Window management for Hammerspoon (macOS) | [**docusaurus-plugin-lunr**](https://github.com/mikemimik/docusaurus-plugin-lunr) — Local search index plugin for Docusaurus |
+| [**tmux-statusbar**](https://github.com/mikemimik/tmux-statusbar) — Custom statusbar for tmux sessions | [**docusaurus-plugin-heap**](https://github.com/mikemimik/docusaurus-plugin-heap) — Heap analytics tracking for Docusaurus |
+| [**http-header-parser**](https://github.com/mikemimik/http-header-parser) — Parser for HTTP headers (IANA, RFC7230, RFC7231, RFC3864) | [**megapixelmontage**](https://github.com/mikemimik/megapixelmontage) — My photography portfolio website |
+| | [**rolodex**](https://github.com/mikemimik/rolodex) — App for tracking students and their projects (from my teaching days) |
 
 ---
 
@@ -76,22 +39,10 @@ Collaboration, learning, and making technology accessible to everyone.
 
 I'm always happy to chat about open source, developer tooling, photography, or coffee!
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-🌐 **Website:** [mikecorp.ca](http://mikecorp.ca) <br/>
-🐦 **Twitter:** [@mikemimik](https://twitter.com/mikemimik) <br/>
-
-</td>
-<td width="50%" valign="top">
-
-💼 **LinkedIn:** [mperrotte](https://linkedin.com/in/mperrotte/) <br/>
-📷 **Instagram:** [@mikemimik](https://instagram.com/mikemimik) <br/>
-
-</td>
-</tr>
-</table>
+| **Web & Social** | **Professional & Photography** |
+|---|---|
+| 🌐 **Website:** [mikecorp.ca](http://mikecorp.ca) | 💼 **LinkedIn:** [mperrotte](https://linkedin.com/in/mperrotte/) |
+| 🐦 **Twitter:** [@mikemimik](https://twitter.com/mikemimik) | 📷 **Instagram:** [@mikemimik](https://instagram.com/mikemimik) |
 
 ---
 
