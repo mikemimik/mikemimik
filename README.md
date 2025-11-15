@@ -10,18 +10,6 @@ rock climbing, or playing piano.
 
 ---
 
-### 💼 What I Do
-
-**Currently:** Staff Software Developer at [**Auth0 by Okta**](https://auth0.com)  
-Working on internal support tooling and services as well as our documentation
-platform. I help enable internal and external users work with Auth0.
-
-**Previously:** [@npm](https://github.com/npm)  
-Part of the team that kept the JavaScript registry running for millions of
-developers worldwide.
-
----
-
 ### 🌟 Open Source & Community
 
 I believe in giving back to the developer community through open source.
